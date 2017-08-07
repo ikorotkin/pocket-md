@@ -1,0 +1,13 @@
+*~
+.project
+.cproject
+.settings
+.vs/
+x64/
+Debug/
+*.VC.opendb
+*.VC.db
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
